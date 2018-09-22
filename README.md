@@ -2,6 +2,8 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.arucard21.simplyrestful/simplyrestful-spring-boot/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.github.arucard21.simplyrestful/simplyrestful-spring-boot)
 
+**DEPRECATED: This has been renamed to SimplyRESTful-cxf-spring-boot and moved to [the main SimplyRESTful repository](https://github.com/arucard21/SimplyRESTful/tree/master/SimplyRESTful-cxf-spring-boot)**
+
 Deploy your SimplyRESTful API with Spring Boot.
 
 Provides the configuration required to deploy a SimplyRESTful API with Apache CXF using Spring Boot auto-scanning. This should provide quite a flexible base from which to customize your deployment but if you want or need more advanced configuration, you can always copy the code from this library and customize it as needed. 
